@@ -1,5 +1,9 @@
 # health-app
 
-#using : Html / Css / JavaScript
+ Used Technology
+ 
+HTML
 
-live side link :- https://mdsajalali.github.io/health-app/
+CSS
+
+JAVASCRIPT
